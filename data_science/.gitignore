@@ -1,2 +1,3 @@
 data
-.pynb-checkpoints
+.ipynb-checkpoint
+.DS_Stores

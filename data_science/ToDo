@@ -1,5 +1,7 @@
-visualizing UMAP (https://www.kaggle.com/code/parulpandey/part3-visualising-kannada-mnist-with-umap?scriptVersionId=29322083)
+Dimensionality Reduction
+	visualizing UMAP (https://www.kaggle.com/code/parulpandey/part3-visualising-kannada-mnist-with-umap?scriptVersionId=29322083)
 
-visualizing h-tSNE
+	visualizing h-tSNE
 
-Manifold learning (https://scikit-learn.org/stable/modules/manifold.html)
+	Manifold learning (https://scikit-learn.org/stable/modules/manifold.html)
+	kmeans_clustering (https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#sphx-glr-auto-examples-cluster-plot-kmeans-digits-py)
