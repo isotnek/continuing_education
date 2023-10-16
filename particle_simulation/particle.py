@@ -144,10 +144,10 @@ class ParticleSimulation:
 sim = ParticleSimulation(800, 600)
 
 # Create 5 red and 5 blue particles
-red_particles = ParticleFactory.create_particles(Particle, 5, 100, 100, 5, 5, 10, 10, (255, 0, 0))
-blue_particles = ParticleFactory.create_particles(Particle, 5, 400, 400, -5, -5, 10, 10, (0, 0, 255))
+red_particles = ParticleFactory.create_particles(Particle, 1, 0, 0, 0, 0, 0, 10, (255, 0, 0))
+#blue_particles = ParticleFactory.create_particles(Particle, 5, 400, 400, -5, -5, 10, 10, (0, 0, 255))
 
 sim.add_particles(red_particles)
-sim.add_particles(blue_particles)
+#sim.add_particles(blue_particles)
 
 sim.run()
